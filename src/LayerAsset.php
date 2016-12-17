@@ -19,7 +19,7 @@ use yii\web\AssetBundle;
  */
 class LayerAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/ailiangkuai/yii2-layer/assets';
+    public $sourcePath = '@vendor/ailiangkuai/yii2-layer/src/assets';
     public $js = [
         'layer.js'
     ];
